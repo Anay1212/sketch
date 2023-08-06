@@ -1,0 +1,13 @@
+body {
+    background-color:#2a2a2a;
+    
+}
+h1{
+    color:#ffe203;
+}
+#show_scketch {
+    float:right;
+}
+canvas{
+  border:5px solid white;  
+}
